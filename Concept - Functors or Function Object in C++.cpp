@@ -22,5 +22,7 @@ int main()
 {
     MyFunctor doubler;
     int x = doubler(5);
+    
+    return 0;
 }
 
